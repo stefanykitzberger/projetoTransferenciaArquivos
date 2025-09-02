@@ -4,8 +4,6 @@ const FILES_TO_CACHE = [
     "sobre.html",
     "style.css",
     "manifest.json",
-    "icons/icon-192.png",
-    "icons/icon-512.png",
     "icons/logo.jpg"
 ];
 
